@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+
+# Logs e Relatórios
+reports/
+coverage/
+npm-debug.log*
+
+# Configurações de Ambiente (Segurança!)
+.env
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db

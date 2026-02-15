@@ -1,0 +1,23 @@
+{
+  "name": "serverest-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:verbose": "jest --verbose",
+    "test:report": "jest --reporters=default --reporters=jest-html-reporters"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "jest": "^30.2.0",
+    "jest-html-reporters": "^3.1.7",
+    "supertest": "^7.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
