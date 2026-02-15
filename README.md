@@ -1,4 +1,5 @@
 # 🚀 Automação de Testes de API - ServeRest (Jest + Supertest)
+[![API Regression Tests (ServeRest)](https://github.com/MateusAlmeidaQA/ServeRest-Jest/actions/workflows/main.yml/badge.svg)](https://github.com/MateusAlmeidaQA/ServeRest-Jest/actions/workflows/main.yml)
 
 Este projeto demonstra uma estrutura de automação de testes de API, utilizando o ecossistema JavaScript para validar os fluxos da plataforma **ServeRest**.
 
